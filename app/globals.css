@@ -1,0 +1,114 @@
+@import "tailwindcss";
+
+/*
+  Journeymate デザイントークン
+  方針: 信頼・堅実 × 先進・スマート × 和・伝統 / 青紺ベース / AI感回避（クリーム背景・セリフ見出しは使わない）
+*/
+:root {
+  --background: #ffffff;
+  --surface: #f7f8fa;
+  --surface-deep: #eef1f5;
+  --navy: #16324f;       /* メイン: 誠実な紺 */
+  --navy-deep: #0f2438;  /* 濃紺（ヒーロー背景など） */
+  --indigo: #2e5c8a;     /* サブ: 藍 */
+  --gold: #b8975a;       /* 和アクセント: 金茶 */
+  --foreground: #1a1a1a;
+  --muted: #5b6670;
+  --border: #e2e6ec;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-deep: var(--surface-deep);
+  --color-navy: var(--navy);
+  --color-navy-deep: var(--navy-deep);
+  --color-indigo: var(--indigo);
+  --color-gold: var(--gold);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --font-sans: var(--font-noto-sans-jp), var(--font-inter), system-ui, sans-serif;
+  --font-serif: var(--font-noto-serif-jp), Georgia, serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* 落ち着いた下線アニメーション等で使う共通ユーティリティ */
+.container-page {
+  width: 100%;
+  max-width: 1120px;
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+}
+
+/* スクロール連動の出現アニメーション（Awwwards 系の上品な reveal） */
+@keyframes reveal-up {
+  from {
+    opacity: 0;
+    transform: translateY(28px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.reveal {
+  animation: reveal-up 0.8s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* ヒーローのケンバーンズ（ゆっくりズーム）で写真に生命感を与える */
+@keyframes slow-zoom {
+  from {
+    transform: scale(1.08);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+.hero-kenburns {
+  animation: slow-zoom 12s ease-out forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .reveal,
+  .reveal.is-visible,
+  .hero-kenburns {
+    opacity: 1;
+    animation: none;
+  }
+}
+
+/* We Were The Scenery 風: 文字の中に阿蘇の風景をマスク */
+.text-mask-aso {
+  background-image: url("/hero-aso.jpg");
+  background-size: cover;
+  background-position: center 42%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+/* スモールキャップス＋広いトラッキングのキャプション/ナビ */
+.eyebrow {
+  font-variant: small-caps;
+  letter-spacing: 0.28em;
+}
+
