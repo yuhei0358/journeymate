@@ -1,0 +1,79 @@
+[
+  {
+    "id": "R06",
+    "full_decode": "passed",
+    "sample_times": [
+      0.5,
+      5,
+      10,
+      15,
+      18
+    ]
+  },
+  {
+    "id": "R07",
+    "full_decode": "passed",
+    "sample_times": [
+      0.5,
+      5,
+      10,
+      15,
+      18
+    ]
+  },
+  {
+    "id": "R08",
+    "full_decode": "passed",
+    "sample_times": [
+      0.5,
+      5,
+      10,
+      15,
+      18
+    ]
+  },
+  {
+    "id": "R09",
+    "full_decode": "passed",
+    "sample_times": [
+      0.5,
+      5,
+      10,
+      15,
+      18
+    ]
+  },
+  {
+    "id": "R10",
+    "full_decode": "passed",
+    "sample_times": [
+      0.5,
+      5,
+      10,
+      15,
+      18
+    ]
+  },
+  {
+    "id": "R11",
+    "full_decode": "passed",
+    "sample_times": [
+      0.5,
+      5,
+      10,
+      15,
+      18
+    ]
+  },
+  {
+    "id": "R12",
+    "full_decode": "passed",
+    "sample_times": [
+      0.5,
+      5,
+      10,
+      15,
+      18
+    ]
+  }
+]

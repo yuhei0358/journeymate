@@ -1,0 +1,217 @@
+{
+  "account": "yuhei.fukuoka",
+  "timezone": "Asia/Tokyo",
+  "cadence": "毎日02:00（日本時間）",
+  "publication": "11 Instagram posts scheduled in Meta Business Suite for 2026-10-13 through 2026-10-23, daily at 02:00 Asia/Tokyo. User-authorized scheduling completed; verify current platform state before editing or rescheduling.",
+  "automation_id": "instagram-2",
+  "posts": [
+    {
+      "id": "R04",
+      "proposed_at": "2026-10-13T02:00:00+09:00",
+      "video": "R04_Yatai_etiquette.mp4",
+      "cover": "R04_cover.jpg",
+      "preview": "R04_preview.jpg",
+      "caption": "Save this before your first Fukuoka yatai night 🏮\nSmall stalls mean limited seats. Order some food, keep your group small, and make room for the next guests. Rules vary by stall—follow the owner’s guidance.\nI’m Yuhei, a local guide in Fukuoka. Follow @yuhei.fukuoka for local food and Kyushu travel ideas.\nWho would you share a yatai table with?\n#fukuoka #yatai #japantravel #kyushu #fukuokafood",
+      "status": "scheduled",
+      "production_notes": "元の声入り動画を修正。最後のDM送付の約束を削除しフォロー・保存の案内に変更。ナレーションの最後の文はミュート。",
+      "scheduled_at": "2026-10-13T02:00:00+09:00",
+      "platform": "Meta Business Suite / Instagram"
+    },
+    {
+      "id": "R02",
+      "proposed_at": "2026-10-14T02:00:00+09:00",
+      "video": "R02_POV_local_guide.mp4",
+      "cover": "R02_cover.jpg",
+      "preview": "R02_preview.jpg",
+      "caption": "POV: your Fukuoka night starts at a tiny yatai table 🍜\nFood sizzling in front of you. Travelers becoming friends. A local guide helping you settle in.\nI’m Yuhei, and this is one of my favorite ways to share Fukuoka.\nFollow @yuhei.fukuoka for local food and hidden corners of Kyushu.\nSend this to your Japan travel buddy 🏮\n#fukuoka #yatai #kyushu #japantravel #fukuokafood",
+      "status": "scheduled",
+      "production_notes": "元の声入り動画を修正。旧アカウント名を置換しフォロー案内を更新。",
+      "scheduled_at": "2026-10-14T02:00:00+09:00",
+      "platform": "Meta Business Suite / Instagram"
+    },
+    {
+      "id": "R05",
+      "proposed_at": "2026-10-15T02:00:00+09:00",
+      "video": "R05_Fukuoka_front_row_dinner_ambient.mp4",
+      "cover": "R05_cover.jpg",
+      "preview": "R05_preview.jpg",
+      "caption": "Your dinner comes with a front-row seat 🏮\nAt a Fukuoka yatai, the kitchen is right in front of you. Watch the cooking, enjoy the food, and take in the night.\nI’m Yuhei, a local guide in Fukuoka. Follow @yuhei.fukuoka for places to eat and explore in Kyushu.\nWould you put a yatai night on your Japan itinerary?\n#fukuoka #yatai #japanfood #kyushu #japantravel",
+      "status": "scheduled",
+      "production_notes": "実写調理素材から新規作成。14秒、英文字幕付き。現場音あり版と無音のBGM追加用版を同梱。",
+      "silent_alternative": "R05_Fukuoka_front_row_dinner.mp4",
+      "scheduled_at": "2026-10-15T02:00:00+09:00",
+      "platform": "Meta Business Suite / Instagram"
+    },
+    {
+      "id": "R03",
+      "proposed_at": "2026-10-16T02:00:00+09:00",
+      "video": "R03_Inside_a_yatai.mp4",
+      "cover": "R03_cover.jpg",
+      "preview": "R03_preview.jpg",
+      "caption": "A tiny food stall. A whole Fukuoka night inside 🏮\nThis is a yatai—an open-air food stall where the seats are close, the food is fresh, and conversation is part of the experience.\nI’m Yuhei, a local guide. I share the places and little moments that make Kyushu worth exploring.\nFollow @yuhei.fukuoka for your Kyushu trip.\nSave this for your Fukuoka plans 🍜\n#fukuoka #yatai #kyushu #japantravel #hiddenjapan",
+      "status": "scheduled",
+      "production_notes": "元の声入り動画を修正。旧アカウント名を置換しフォロー案内を更新。",
+      "scheduled_at": "2026-10-16T02:00:00+09:00",
+      "platform": "Meta Business Suite / Instagram"
+    },
+    {
+      "id": "R06",
+      "title_ja": "屋台に行く前の準備",
+      "video": "R06_Before_your_yatai_night.mp4",
+      "cover": "R06_cover.jpg",
+      "caption": "Save this before your Fukuoka yatai night 🏮\nBring cash, leave large bags at your hotel, and check the weather: some stalls close in rain or strong wind. Opening days vary by stall.\nFollow @yuhei.fukuoka for practical Fukuoka travel tips.\nWhat would you like to know before your first visit?\n#fukuoka #yatai #japantravel #kyushu #traveltips",
+      "sources": [
+        "https://gofukuoka.jp/yatai-howto.html"
+      ],
+      "proposed_at": "2026-10-17T02:00:00+09:00",
+      "status": "scheduled",
+      "preview": "R06_preview.jpg",
+      "production_notes": "19秒。実写素材・英文情報カード・自作インストゥルメンタル。ナレーションなし。",
+      "scheduled_at": "2026-10-17T02:00:00+09:00",
+      "platform": "Meta Business Suite / Instagram"
+    },
+    {
+      "id": "R07",
+      "title_ja": "替え玉の頼み方",
+      "video": "R07_Kaedama_ramen_tip.mp4",
+      "cover": "R07_cover.jpg",
+      "caption": "One ramen word to remember: kaedama 🍜\nAt Hakata ramen shops that offer it, kaedama means an extra serving of noodles for your remaining broth. Keep some soup and check the menu for availability and price.\nFollow @yuhei.fukuoka for useful food tips before your Kyushu trip.\nWould you order extra noodles?\n#hakataramen #fukuoka #ramen #japanfood #japantravel",
+      "sources": [
+        "https://www.japan.travel/en/sg/story/ramen/"
+      ],
+      "proposed_at": "2026-10-18T02:00:00+09:00",
+      "status": "scheduled",
+      "preview": "R07_preview.jpg",
+      "production_notes": "19秒。実写素材・英文情報カード・自作インストゥルメンタル。ナレーションなし。",
+      "scheduled_at": "2026-10-18T02:00:00+09:00",
+      "platform": "Meta Business Suite / Instagram"
+    },
+    {
+      "id": "R08",
+      "title_ja": "おでんのメニュー解説",
+      "video": "R08_Oden_menu_decoder.mp4",
+      "cover": "R08_cover.jpg",
+      "caption": "Meet oden: a warm yatai favorite 🏮\nIngredients simmer in dashi broth. Egg and daikon are common choices, but each stall has its own selection. The yellow paste on the side may be Japanese mustard—start with a little.\nSave this menu tip and follow @yuhei.fukuoka for more Fukuoka food discoveries.\nEgg or daikon: which would you try first?\n#oden #yatai #fukuoka #japanfood #kyushu",
+      "sources": [
+        "https://gofukuoka.jp/yatai-food.html"
+      ],
+      "proposed_at": "2026-10-19T02:00:00+09:00",
+      "status": "scheduled",
+      "preview": "R08_preview.jpg",
+      "production_notes": "19秒。実写素材・英文情報カード・自作インストゥルメンタル。ナレーションなし。",
+      "scheduled_at": "2026-10-19T02:00:00+09:00",
+      "platform": "Meta Business Suite / Instagram"
+    },
+    {
+      "id": "R09",
+      "title_ja": "入店で使えるひと言",
+      "video": "R09_Two_people_OK.mp4",
+      "cover": "R09_cover.jpg",
+      "caption": "Nervous about entering a Fukuoka yatai? Try: \"Two people. OK?\" 🏮\nTell the staff your group size, wait for their guidance, and join the end if there is a queue. Language support varies by stall.\nSave this for your first night and follow @yuhei.fukuoka for more small tips that make Japan easier.\nTag your travel buddy.\n#fukuoka #yatai #japantravel #traveltips #kyushu",
+      "sources": [
+        "https://gofukuoka.jp/yatai-howto.html"
+      ],
+      "proposed_at": "2026-10-20T02:00:00+09:00",
+      "status": "scheduled",
+      "preview": "R09_preview.jpg",
+      "production_notes": "19秒。実写素材・英文情報カード・自作インストゥルメンタル。ナレーションなし。",
+      "scheduled_at": "2026-10-20T02:00:00+09:00",
+      "platform": "Meta Business Suite / Instagram"
+    },
+    {
+      "id": "R10",
+      "title_ja": "屋台エリア3つの選び方",
+      "video": "R10_Three_yatai_areas.mp4",
+      "cover": "R10_cover.jpg",
+      "caption": "Three yatai areas for your Fukuoka plans 🏮\nNakasu: riverside scenery and a lively atmosphere.\nTenjin: stalls around the central shopping and business district.\nNagahama: ramen heritage and a range of menus.\nCheck the official Fukuoka yatai map and each stall’s opening details before heading out. This reel is an area guide; the opening photo is general yatai footage.\nFollow @yuhei.fukuoka for more local travel ideas. Which area sounds like your kind of night?\n#fukuoka #nakasu #tenjin #nagahama #japantravel",
+      "sources": [
+        "https://www.gofukuoka.jp/en/articles/detail/20269346-4675-4349-b3d4-bbe676319a38"
+      ],
+      "proposed_at": "2026-10-21T02:00:00+09:00",
+      "status": "scheduled",
+      "preview": "R10_preview.jpg",
+      "production_notes": "19秒。実写素材・英文情報カード・自作インストゥルメンタル。ナレーションなし。",
+      "scheduled_at": "2026-10-21T02:00:00+09:00",
+      "platform": "Meta Business Suite / Instagram"
+    },
+    {
+      "id": "R11",
+      "title_ja": "ラーメン以外の串料理",
+      "video": "R11_Beyond_ramen_skewers.mp4",
+      "cover": "R11_cover.jpg",
+      "caption": "Yatai food goes beyond ramen 🏮\nLook for yakitori and grilled skewers on the menu. Ingredients vary: chicken is common, but other meats and vegetables can also appear. Ask the staff what each skewer is before choosing.\nSave this food idea and follow @yuhei.fukuoka for more local Fukuoka discoveries.\nRamen or grilled skewers—which would you order first?\n#yakitori #fukuoka #yatai #japanfood #kyushu",
+      "sources": [
+        "https://gofukuoka.jp/yatai-food.html"
+      ],
+      "proposed_at": "2026-10-22T02:00:00+09:00",
+      "status": "scheduled",
+      "preview": "R11_preview.jpg",
+      "production_notes": "19秒。実写素材・英文情報カード・自作インストゥルメンタル。ナレーションなし。",
+      "scheduled_at": "2026-10-22T02:00:00+09:00",
+      "platform": "Meta Business Suite / Instagram"
+    },
+    {
+      "id": "R12",
+      "title_ja": "ひとり旅で楽しむ屋台",
+      "video": "R12_Solo_yatai_night.mp4",
+      "cover": "R12_cover.jpg",
+      "caption": "Solo traveler in Fukuoka? A yatai night is an option for you, too 🏮\nAsk the staff for one seat, enjoy the food, and chat if you feel comfortable. Every night and every stall feels different; the group photo shows a moment from one of my tours.\nI’m Yuhei, a local guide. Follow @yuhei.fukuoka for more ways to enjoy Fukuoka and Kyushu.\nWould you visit a food stall on your own?\n#solotravel #fukuoka #yatai #kyushu #japantravel",
+      "sources": [
+        "https://gofukuoka.jp/yatai-howto.html"
+      ],
+      "proposed_at": "2026-10-23T02:00:00+09:00",
+      "status": "scheduled",
+      "preview": "R12_preview.jpg",
+      "production_notes": "19秒。実写素材・英文情報カード・自作インストゥルメンタル。ナレーションなし。",
+      "scheduled_at": "2026-10-23T02:00:00+09:00",
+      "platform": "Meta Business Suite / Instagram"
+    }
+  ],
+  "next_ideas": [
+    {
+      "topic": "What is a yatai?",
+      "hook": "Your first Fukuoka yatai night starts here.",
+      "source": "real stall and counter footage",
+      "cta": "Save for your Fukuoka trip"
+    },
+    {
+      "topic": "Hakata ramen close-up",
+      "hook": "Put this on your Fukuoka food list.",
+      "source": "selected ramen photos",
+      "cta": "Follow for local food in Kyushu"
+    },
+    {
+      "topic": "Meet your guide",
+      "hook": "The person behind your Fukuoka food tips.",
+      "source": "Yuhei portraits and guest tour footage",
+      "cta": "Follow to explore with a local"
+    },
+    {
+      "topic": "One counter, travelers from everywhere",
+      "hook": "Come for the food. Stay for the conversation.",
+      "source": "tour guest photos",
+      "cta": "Share with your Japan travel buddy"
+    }
+  ],
+  "measurements": [
+    "48h and 7d reach",
+    "saves",
+    "shares",
+    "profile visits",
+    "follows attributed to post when available"
+  ],
+  "profile_actions": [
+    {
+      "action": "pin self-introduction reel",
+      "status": "not_done_browser_disconnected"
+    },
+    {
+      "action": "profile link",
+      "status": "not_added; pick a relevant working destination after enough useful posts exist"
+    }
+  ],
+  "scheduling_verified_at": "2026-10-11T20:15:54.230Z",
+  "preferred_posting_time": "02:00 Asia/Tokyo",
+  "automation_status": "PAUSED",
+  "next_preparation_requires_user_resume": true
+}
