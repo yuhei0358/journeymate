@@ -34,4 +34,6 @@ npm run dev
 
 Instagramの目的は、日本でYuheiが行う訪日外国人向けツアーへの集客。戦略の正本は `docs/instagram/strategy.md`、予約の記録は `publishing-plan.json`。GitHub上の変更と実際のSNS操作は別々に記録する。
 
+現在のInstagramは個人用・非公開。予約状態は切り替え後に未確認。完成素材は非公開の [共有Release](https://github.com/yuhei0358/project-workspace/releases/tag/instagram-2026-10-12) から取得する。
+
 元の写真・動画、デザイン原本はリポジトリ外で保管。秘密の設定、パスワード、APIキーはコミットしない。

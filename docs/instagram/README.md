@@ -11,12 +11,12 @@
 | [captions/](captions/) | 各投稿の英文 |
 | [handoff-2026-10-12.pdf](handoff-2026-10-12.pdf) | 確認日時点の共有用資料 |
 | [handoff-2026-10-12.html](handoff-2026-10-12.html) | ブラウザで読む共有用資料 |
-| [https://github.com/yuhei0358/journeymate/releases/tag/instagram-2026-10-12](https://github.com/yuhei0358/journeymate/releases/tag/instagram-2026-10-12) | 完成動画・カバー・プレビューの配布 |
+| [https://github.com/yuhei0358/project-workspace/releases/tag/instagram-2026-10-12](https://github.com/yuhei0358/project-workspace/releases/tag/instagram-2026-10-12) | 完成動画・カバー・プレビューの配布 |
 
 ## 状態
 
-- 10/13〜10/23、毎日02:00日本時間で11本予約済み。公開済みの自己紹介1本はユーザー申告。
-- 自動制作はPAUSED。予約済み投稿はMeta側で維持。新規制作・追加予約はユーザーの再開依頼後。
+- 10/13〜10/23、毎日02:00日本時間で11本を予約した履歴。10/12に個人用・非公開へ変更済み。Meta Business Suiteが利用できず、予約の現在状態・公開可否は未確認。
+- 自動制作はPAUSED。個人用への切り替え後、予約の状態は未確認。新規制作・追加予約はユーザーの再開依頼後。
 - 最適な投稿時間、成長率、予約数の効果は未実証。48時間／7日後の結果を記録して改善する。
 - Gitで変更してもInstagramプロフィールや予約内容は自動更新されない。Metaで変更してから記録を更新する。
 
